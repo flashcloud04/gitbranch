@@ -1,5 +1,5 @@
 # Get input from the user
-num1 = float(input("Enter first number: "))
+num1 = float(input("Enter your first number: "))
 num2 = float(input("Enter second number: "))
 
 # Perform calculations
